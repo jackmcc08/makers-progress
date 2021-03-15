@@ -8,7 +8,12 @@
 
 ## Summary
 
-Overall week
+Overall week 2 was very intense with a lot of concepts to cover. I felt I gained a stronger understanding of rspec and mocking, I even developed a cheat sheet for future use which has proved quite useful so far. The weekend challenge was enjoyable and I got to implement my first API from TWILIO, very cool to send a text message from the computer with code I wrote / copied from Twilio.
+
+The pairing sessions were generally productive and I enjoyed having set times for programming, it kept things fresh and focused.
+
+Ups - understanding dependency injection, completing the polymorphism practical and the weekend challenge!
+Downs - building rspec practical....confused.com, not managing self study time properly. 
 
 #### Weeks practicals
 
@@ -121,19 +126,20 @@ Friday - Finish building rspec
 - Afternoon Challenge - Oystercard
     - https://github.com/jackmcc08/oyster_card_stu_jack
     - https://github.com/jackmcc08/oystercard_jack_sha_awesome_implementation
-    -
+    - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/pair-lou
 - Weekend Challenge - Takeaway Challenge -
     - https://github.com/jackmcc08/takeaway-challenge
 - Workshops
     - Domain Modelling
         - https://docs.google.com/document/d/1RkpWcR6LVPYIWwwPnSfo0j0w-DfNMNnW_kBGzog0jIA/edit?usp=sharing
-        -
+        - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/domain-modelling-workshop
     - Doubles workshop -
 - Practicals
-    - Testing behaviour over testing state
-    - [Partial] Learning by building RSpec
-    - Dependency Injection
-    - OO Relationships (Forwarding, Polymorphism)
+    - Testing behaviour over testing state - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/testing-behaviour-over-state
+    - [Partial] Learning by building RSpec - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/learning-by-building-rspec
+    - Dependency Injection - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/dependency-injection
+    - OO Relationships (Forwarding, Polymorphism) - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/OO-Relationships-1-practical
+    - Testing relationships between classes - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/testing_relationships_between_classes
 - Other
     - Completed Boris Bike - https://github.com/jackmcc08/boris-bike-solo-finish
-    - Process Workshop 1 -
+    - Process Workshop 1 - https://github.com/jackmcc08/makers-progress/tree/main/week-2/week-2-code/process_workshop_1
