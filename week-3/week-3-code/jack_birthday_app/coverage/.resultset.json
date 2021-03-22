@@ -1,0 +1,65 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jackmccarthy/Documents/Makers/Week_3/jack_birthday_app/spec/birthday_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          4,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/jackmccarthy/Documents/Makers/Week_3/jack_birthday_app/spec/features/register_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/jackmccarthy/Documents/Makers/Week_3/jack_birthday_app/spec/features/today_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1623625200
+  }
+}

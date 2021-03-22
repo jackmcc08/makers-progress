@@ -1,0 +1,5 @@
+<% if session[:birthday].my_birthday == true %>
+  <h1 id='today'>Happy Birthday <%= session[:birthday].first_name %>!</h1>
+<% else %>
+  <h1 id='not_yet'>Your birthday will be in <%= session[:birthday].my_birthday %> days, <%= session[:birthday].first_name %>!</h1>
+<% end %>
