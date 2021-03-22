@@ -108,7 +108,7 @@ Monday
 
   ## Code Links
 
- - Weeks notes -
+ - Weeks notes - https://github.com/jackmcc08/makers-progress/tree/main/week-3/week-3-notes
  - Afternoon Challenge
      - Monday - https://github.com/jackmcc08/battles-flora-jack
      - Tuesday - https://github.com/jackmcc08/battles-emma-jack
@@ -117,10 +117,10 @@ Monday
      - Friday - Did not pull the repo from Liz
  - Weekend Challenge - https://github.com/jackmcc08/rps-challenge
  - Workshops
-     - Understand the HTTP Cycle
-     - Debugging the web
+     - Understand the HTTP Cycle https://github.com/jackmcc08/makers-progress/tree/main/week-3/week-3-code/HTTP-req-res-cycle-Process-Workshop
+     - Debugging the web https://github.com/jackmcc08/makers-progress/tree/main/week-3/week-3-code/debugging-the-web-workshop/debugging_2
  - Practicals
-     - Servers
-     - Clients
-     - HTTP Servers
-     - Birthday Tracker
+     - Servers https://github.com/jackmcc08/makers-progress/tree/main/week-3/week-3-code/Servers-practical
+     - Clients https://github.com/jackmcc08/makers-progress/tree/main/week-3/week-3-code/clients-practical
+     - HTTP Servers https://github.com/jackmcc08/makers-progress/tree/main/week-3/week-3-code/http-servers-practical
+     - Birthday Tracker - https://github.com/jackmcc08/makers-progress/tree/main/week-3/week-3-code/jack_birthday_app
