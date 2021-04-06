@@ -11,4 +11,6 @@ Week 3 - https://github.com/jackmcc08/makers-progress/tree/main/week-3
 
 Week 4 - https://github.com/jackmcc08/makers-progress/tree/main/week-4
 
-Week 5 -
+Week 5 - https://github.com/jackmcc08/makers-progress/tree/main/week-5
+
+Week 6 - 
