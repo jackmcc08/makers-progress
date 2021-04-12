@@ -87,4 +87,4 @@ The weekend challenge was a step up in complexity, and highlighted the need for 
  - Weekend Challenge - Bowling Scorecard in JS
      - https://github.com/jackmcc08/bowling-challenge
  - Other Code:
-     - 
+     - https://github.com/jackmcc08/makers-progress/tree/main/week-6/week-6-code
